@@ -5,7 +5,7 @@
   # 👋 Hi, I'm **Bommidi Leela Srikanth**  
 
   <a href="https://git.io/typing-svg">  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=70&lines=Software+Developer;Ruby+on+Rails+|+React+JS+|+Python;Building+with+AI+•+5+Years+of+Experience" alt="Typing SVG" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=70&lines=Software+Developer;Ruby+on+Rails+|+React+JS+|+Python%2FDjango;Building+with+AI+•+5+Years+of+Experience" alt="Typing SVG" />  
   </a>  
 
   <br/>  
@@ -24,24 +24,25 @@
 
 ## 🚀 About Me  
 
-I'm a **Software Developer with 5+ years of experience** crafting robust web applications and AI-powered solutions. I specialize in **Ruby on Rails, React, Node.js, and Python**, and I'm deeply passionate about the **Agentic AI & Gen AI** space — building intelligent systems that solve real-world problems.  
+I'm a **Software Developer with 5+ years of experience** crafting robust web applications and AI-powered solutions. I specialize in **Ruby on Rails, Python/Django, React, Node.js, and Vue.js**, and I'm deeply passionate about the **Agentic AI & Gen AI** space — building intelligent systems that solve real-world problems.  
 
 I also create content to give back to the developer community — sharing what I learn on **YouTube, Medium, and Instagram** to help fellow devs level up.  
 
 - 🎯 **Currently building:** Agentic AI systems & full-stack applications  
 - 🌱 **Deep diving into:** LangChain, LLM orchestration, and AI agents  
 - 💡 **Believe in:** Clean code, meaningful architecture, and continuous learning  
-- ✍️ **Write about:** Rails, React, Python, and AI on [Medium](https://medium.com/@leelasrikanth)  
-
+- ✍️ **Write about:** Rails, Django, React, Vue, and AI on [Medium](https://medium.com/@leelasrikanth)  
 ---  
 
 ## 🛠️ Tech Stack  
 
-### Languages & Frameworks  
+### Languages  
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+### Frameworks & Libraries  
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  
+![Django](https://img.shields.io/badge
