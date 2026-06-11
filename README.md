@@ -102,14 +102,6 @@ I'm a **Software Developer with 5+ years of experience** building production-gra
 
 ---
 
-## 📝 Latest Writing
-
-<!-- BLOG-POST-LIST:START -->
-> ✍️ Check out my latest articles on [Medium →](https://medium.com/@leelasrikanth)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📬 Let's Connect
 
 <p align="left">
