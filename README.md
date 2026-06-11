@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Leela Srikanth 👋</h1>
+<h1 align="center">Hi, I'm Leela Srikanth Bommidi 👋</h1>
 
 <p align="center">
   <b>Software Developer · Full-Stack Engineer · Agentic AI Builder</b><br/>
