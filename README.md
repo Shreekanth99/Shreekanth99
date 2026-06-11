@@ -26,8 +26,6 @@ I'm a **Software Developer with 5+ years of experience** building production-gra
 - 🚀 Currently building **Agentic AI systems** and full-stack applications
 - 🔬 Deep diving into **LangChain**, LLM orchestration & multi-agent architectures
 - ☁️ Experienced with **AWS** and cloud-native infrastructure
-- ✍️ Writing about Rails, Django, React, Vue & AI on [Medium](https://medium.com/@leelasrikanth)
-- 🎥 Teaching dev concepts on [YouTube](https://www.youtube.com/@leelasrikanth)
 - 💡 Passionate about **clean architecture**, **scalable APIs**, and **TDD**
 - ⚡ Fun fact: I believe clean code and good coffee are equally essential ☕
 
